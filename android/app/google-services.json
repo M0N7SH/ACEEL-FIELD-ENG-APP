@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "648575809488",
+    "project_id": "accel-attendance-d3d44",
+    "storage_bucket": "accel-attendance-d3d44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648575809488:android:97f41587ca00f9e413abd5",
+        "android_client_info": {
+          "package_name": "com.example.field_accel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648575809488-mi00cf8d44dpl8miulujmd0bdbn7ia3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOPQoGZMP52RnYhd57frKgk9u6HHjGks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648575809488-mi00cf8d44dpl8miulujmd0bdbn7ia3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648575809488:android:e2480354783628d113abd5",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648575809488-mi00cf8d44dpl8miulujmd0bdbn7ia3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOPQoGZMP52RnYhd57frKgk9u6HHjGks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648575809488-mi00cf8d44dpl8miulujmd0bdbn7ia3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
